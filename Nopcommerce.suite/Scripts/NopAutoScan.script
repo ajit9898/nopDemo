@@ -1,0 +1,67 @@
+(*** Autosnippet script "NopCommerce" generated 2019-03-08 by Ideabytes. Keep this comment for use with Eggplant AI. ***)
+(* Already generated snippets can be edited in the script below *)
+(* To customize the snippet generation templates, affecting snippets generated in the future,
+go to Eggplant > Preferences... > Script > General > Customize *)
+
+
+(* Autosnippets for Button "LoginButton" *)
+
+to handle LoginButton_Click
+    Click imageName:"LoginButton", waitFor:8
+end LoginButton_Click
+
+-----------------------------------
+
+
+(* Autosnippets for Field "Username_0001" *)
+
+to handle Username_0001_EnterText theValue, terminator
+    // Assumes the hot spot has been set over the text field
+	// and that the field is already empty.
+	
+	// Click the location of the hot spot.
+	Click imageName:"Username_0001", waitFor:8
+	//Type theValue and optional terminator (such as 'return' or 'tab') into the field.
+    TypeText theValue, terminator
+end Username_0001_EnterText
+
+to handle Username_0001_ReadText
+    // Assumes the hot spot has been set over the text field.
+	
+    // Use OCR to read the text around that hot spot point.
+    set theText to readText(imageLocation(imageName:"Username_0001"))
+    // Any additional cleanup of the text could be done here before returning the value, such as:
+    // set theText to trim(theText) -- remove leading/trailing whitespace
+    return theText
+end Username_0001_ReadText
+
+-----------------------------------
+
+
+(* Autosnippets for Field "Password_0001" *)
+
+to handle Password_0001_EnterText theValue, terminator
+    // Assumes the hot spot has been set over the text field
+	// and that the field is already empty.
+	
+	// Click the location of the hot spot.
+	Click imageName:"Password_0001", waitFor:8
+	//Type theValue and optional terminator (such as 'return' or 'tab') into the field.
+    TypeText theValue, terminator
+end Password_0001_EnterText
+
+to handle Password_0001_ReadText
+    // Assumes the hot spot has been set over the text field.
+	
+    // Use OCR to read the text around that hot spot point.
+    set theText to readText(imageLocation(imageName:"Password_0001"))
+    // Any additional cleanup of the text could be done here before returning the value, such as:
+    // set theText to trim(theText) -- remove leading/trailing whitespace
+    return theText
+end Password_0001_ReadText
+
+-----------------------------------
+
+
+(*** End of Autosnippet script NopCommerce.script ***)
+

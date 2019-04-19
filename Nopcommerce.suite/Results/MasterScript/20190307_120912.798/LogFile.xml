@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="Nopcommerce.suite" timestamp="2019-03-07 12:09:12.798 +0530"
+ tests="1"  failures="0" errors="0" time="9.643187">
+  <properties>
+   <property name="RunDate" value="2019-03-07 12:09:12.798 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="success"  time="9.637732">
+  </testcase>
+ </testsuite>
+</testsuites>

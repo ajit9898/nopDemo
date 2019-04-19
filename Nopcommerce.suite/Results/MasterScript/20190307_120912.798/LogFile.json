@@ -1,0 +1,96 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MasterScript.script",
+      "timestamp" : "2019-03-07 12:09:12.800 +0530"
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "Ramacanth:(null)",
+      "timestamp" : "2019-03-07 12:09:12.913 +0530",
+      "identifier" : "connect",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "Remote",
+      "timestamp" : "2019-03-07 12:09:12.916 +0530",
+      "identifier" : "show",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "at (29, 123)",
+      "identifier" : "click",
+      "image" : "ChromeIcon",
+      "handlerLine" : 4,
+      "timestamp" : "2019-03-07 12:09:13.143 +0530",
+      "scriptName" : "LaunchApp.script"
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "http:\/\/nopcommerce.testplant.com\/banking-app.html[return]",
+      "timestamp" : "2019-03-07 12:09:16.790 +0530",
+      "identifier" : "typetext",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_nophomepage",
+      "message" : "at (106, 286)",
+      "identifier" : "click",
+      "image" : "Username",
+      "handlerLine" : 1,
+      "timestamp" : "2019-03-07 12:09:18.260 +0530",
+      "scriptName" : "NopHomePage.script"
+    },
+    {
+      "handlerName" : "on_nophomepage",
+      "message" : "Rama",
+      "timestamp" : "2019-03-07 12:09:19.018 +0530",
+      "identifier" : "typetext",
+      "scriptName" : "NopHomePage.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_nophomepage",
+      "message" : "at (365, 192)",
+      "identifier" : "click",
+      "image" : "Bank",
+      "handlerLine" : 4,
+      "timestamp" : "2019-03-07 12:09:19.900 +0530",
+      "scriptName" : "NopHomePage.script"
+    },
+    {
+      "handlerName" : "on_nophomepage",
+      "message" : "at (110, 359)",
+      "identifier" : "click",
+      "image" : "Password",
+      "handlerLine" : 6,
+      "timestamp" : "2019-03-07 12:09:21.231 +0530",
+      "scriptName" : "NopHomePage.script"
+    },
+    {
+      "handlerName" : "on_nophomepage",
+      "message" : "Rama",
+      "timestamp" : "2019-03-07 12:09:21.991 +0530",
+      "identifier" : "typetext",
+      "scriptName" : "NopHomePage.script",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"9.637732\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-03-07 12:09:12 +0530\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+      "timestamp" : "2019-03-07 12:09:22.442 +0530"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:09 MasterScript.script",
+      "timestamp" : "2019-03-07 12:09:22.464 +0530"
+    }
+  ],
+  "createdTimestamp" : "2019-03-07 12:09:12.804 +0530"
+}

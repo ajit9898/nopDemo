@@ -1,0 +1,3 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+MasterScript,Failure,10,5,2019-03-07 12:07:14 +0530,2019-03-07 14:18:55 +0530,0:00:13
+LaunchApp,Success,5,0,2019-03-07 12:02:25 +0530,2019-03-07 12:08:34 +0530,0:00:03

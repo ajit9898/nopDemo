@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2019-03-07 06:40:34 +0000";
+    CaptureHost = RamaCanth;
+    CaptureScreenSize =     (
+        1366,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 640;
+    HotSpotY = 94;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 72;
+    OriginalLocationY = 228;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    tags =     (
+    );
+}

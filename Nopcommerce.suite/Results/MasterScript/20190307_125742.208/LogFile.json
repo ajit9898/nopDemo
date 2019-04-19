@@ -1,0 +1,62 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MasterScript.script",
+      "timestamp" : "2019-03-07 12:57:42.209 +0530"
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "Ramacanth:(null)",
+      "timestamp" : "2019-03-07 12:57:42.320 +0530",
+      "identifier" : "connect",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "Remote",
+      "timestamp" : "2019-03-07 12:57:42.323 +0530",
+      "identifier" : "show",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "at (29, 123)",
+      "identifier" : "click",
+      "image" : "ChromeIcon",
+      "handlerLine" : 4,
+      "timestamp" : "2019-03-07 12:57:43.298 +0530",
+      "scriptName" : "LaunchApp.script"
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "http:\/\/nopcommerce.testplant.com\/banking-app.html[return]",
+      "timestamp" : "2019-03-07 12:57:46.962 +0530",
+      "identifier" : "typetext",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_loginpage",
+      "message" : "No Image Found On Screen: \"Username\"",
+      "identifier" : "Exception",
+      "image" : "Username",
+      "handlerLine" : 1,
+      "timestamp" : "2019-03-07 12:57:59.232 +0530",
+      "scriptName" : "LoginPage.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"17.32478\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-03-07 12:57:42 +0530\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+      "timestamp" : "2019-03-07 12:57:59.539 +0530"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:17 MasterScript.script",
+      "timestamp" : "2019-03-07 12:57:59.544 +0530"
+    }
+  ],
+  "createdTimestamp" : "2019-03-07 12:57:42.214 +0530"
+}

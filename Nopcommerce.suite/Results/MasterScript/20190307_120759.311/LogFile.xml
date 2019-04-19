@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="Nopcommerce.suite" timestamp="2019-03-07 12:07:59.311 +0530"
+ tests="1"  failures="1" errors="0" time="0.544615">
+  <properties>
+   <property name="RunDate" value="2019-03-07 12:07:59.311 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="failure"  time="0.539185">
+    <failure type="FAILURE" message="SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'LaunchApp '. -- Execution Time 0:00:00 MasterScript.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

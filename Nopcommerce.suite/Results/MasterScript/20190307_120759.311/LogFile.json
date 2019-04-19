@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MasterScript.script",
+      "timestamp" : "2019-03-07 12:07:59.313 +0530"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.539185\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-03-07 12:07:59 +0530\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+      "timestamp" : "2019-03-07 12:07:59.857 +0530"
+    },
+    {
+      "message" : "SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'LaunchApp '. -- Execution Time 0:00:00 MasterScript.script",
+      "timestamp" : "2019-03-07 12:08:00.106 +0530",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2019-03-07 12:07:59.317 +0530"
+}

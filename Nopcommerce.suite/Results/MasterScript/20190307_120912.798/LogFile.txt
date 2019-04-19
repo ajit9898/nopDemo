@@ -1,0 +1,12 @@
+﻿2019-03-07 12:09:12.800 +0530	START		Running MasterScript.script
+2019-03-07 12:09:12.913 +0530	connect		Ramacanth:(null)	1	on_launchapp	LaunchApp.script
+2019-03-07 12:09:12.916 +0530	show		Remote	2	on_launchapp	LaunchApp.script
+2019-03-07 12:09:13.143 +0530	click	ChromeIcon	at (29, 123)	4	on_launchapp	LaunchApp.script
+2019-03-07 12:09:16.790 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	6	on_launchapp	LaunchApp.script
+2019-03-07 12:09:18.260 +0530	click	Username	at (106, 286)	1	on_nophomepage	NopHomePage.script
+2019-03-07 12:09:19.018 +0530	typetext		Rama	2	on_nophomepage	NopHomePage.script
+2019-03-07 12:09:19.900 +0530	click	Bank	at (365, 192)	4	on_nophomepage	NopHomePage.script
+2019-03-07 12:09:21.231 +0530	click	Password	at (110, 359)	6	on_nophomepage	NopHomePage.script
+2019-03-07 12:09:21.991 +0530	typetext		Rama	7	on_nophomepage	NopHomePage.script
+2019-03-07 12:09:22.442 +0530	EndTestCase		(Duration:"9.637732", Errors:"0", Exceptions:"0", StartTime:"2019-03-07 12:09:12 +0530", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2019-03-07 12:09:22.464 +0530	SUCCESS		Execution Time 0:00:09 MasterScript.script

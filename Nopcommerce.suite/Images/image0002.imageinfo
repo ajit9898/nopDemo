@@ -1,0 +1,18 @@
+﻿{
+    CaptureDate = "2019-03-08 06:15:37 +0000";
+    CaptureHost = RamaCanth;
+    CaptureScreenSize =     (
+        1366,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 30;
+    HotSpotY = 28;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 0;
+    OriginalLocationY = 607;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="LaunchApp">
+ <run>
+  <RunDate>2019-03-07 12:02:25.254 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>2.328611</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190307_120225.254/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-03-07 12:02:52.543 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>2.552059</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190307_120252.543/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-03-07 12:03:08.551 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>2.624627</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190307_120308.551/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-03-07 12:08:19.902 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>4.421588</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190307_120819.902/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-03-07 12:08:34.963 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>4.488528</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190307_120834.963/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

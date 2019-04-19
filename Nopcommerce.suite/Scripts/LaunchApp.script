@@ -1,0 +1,8 @@
+﻿connect "Ramacanth"
+show Remote
+
+Click(Image:"ChromeIcon", WaitFor:3)
+wait 3
+TypeText "http://nopcommerce.testplant.com/banking-app.html", Return
+
+

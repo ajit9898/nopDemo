@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="Nopcommerce.suite" timestamp="2019-03-07 12:11:54.633 +0530"
+ tests="1"  failures="1" errors="1" time="38.010243">
+  <properties>
+   <property name="RunDate" value="2019-03-07 12:11:54.633 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="error"  time="38.005051">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;BalanceA&quot; -- Execution Time 0:00:38 MasterScript.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;BalanceA&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

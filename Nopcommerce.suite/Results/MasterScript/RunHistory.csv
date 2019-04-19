@@ -1,0 +1,16 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2019-03-07 12:07:14.910 +0530,"Failure",0:00:00,1,0,0,"20190307_120714.910/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'LaunchApp '.",0
+2019-03-07 12:07:59.311 +0530,"Failure",0:00:00,1,0,0,"20190307_120759.311/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'LaunchApp '.",0
+2019-03-07 12:09:12.798 +0530,"Success",0:00:09,0,0,0,"20190307_120912.798/LogFile.txt","","",1
+2019-03-07 12:11:54.633 +0530,"Failure",0:00:38,1,0,1,"20190307_121154.633/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""BalanceA""",0
+2019-03-07 12:13:51.563 +0530,"Success",0:00:12,0,0,0,"20190307_121351.563/LogFile.txt","","",1
+2019-03-07 12:20:37.519 +0530,"Aborted",0:00:23,1,0,1,"20190307_122037.519/LogFile.txt","","",0
+2019-03-07 12:21:02.384 +0530,"Failure",0:00:32,1,0,1,"20190307_122102.384/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Username""",0
+2019-03-07 12:21:49.146 +0530,"Aborted",0:00:31,1,0,1,"20190307_122149.146/LogFile.txt","","",0
+2019-03-07 12:23:39.887 +0530,"Success",0:00:12,0,0,0,"20190307_122339.887/LogFile.txt","","",1
+2019-03-07 12:39:39.126 +0530,"Success",0:00:13,0,0,0,"20190307_123939.126/LogFile.txt","","",1
+2019-03-07 12:56:05.465 +0530,"Success",0:00:18,0,0,0,"20190307_125605.465/LogFile.txt","","",1
+2019-03-07 12:57:42.208 +0530,"Aborted",0:00:17,1,0,1,"20190307_125742.208/LogFile.txt","","",0
+2019-03-07 12:58:00.948 +0530,"Aborted",0:00:22,1,0,1,"20190307_125800.948/LogFile.txt","","",0
+2019-03-07 12:58:28.934 +0530,"Aborted",0:00:20,1,0,1,"20190307_125828.934/LogFile.txt","","",0
+2019-03-07 14:18:55.817 +0530,"Failure",0:00:29,1,0,1,"20190307_141855.817/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Username""",0

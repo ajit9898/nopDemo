@@ -1,0 +1,8 @@
+﻿2019-03-07 14:18:55.821 +0530	START		Running MasterScript.script
+2019-03-07 14:18:55.978 +0530	connect		Ramacanth:(null)	1	on_launchapp	LaunchApp.script
+2019-03-07 14:18:55.981 +0530	show		Remote	2	on_launchapp	LaunchApp.script
+2019-03-07 14:18:56.201 +0530	click	ChromeIcon	at (29, 123)	4	on_launchapp	LaunchApp.script
+2019-03-07 14:18:59.874 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	6	on_launchapp	LaunchApp.script
+2019-03-07 14:19:24.911 +0530	Exception	Username	No Image Found On Screen: "Username"	1	on_loginpage	LoginPage.script
+2019-03-07 14:19:25.214 +0530	EndTestCase		(Duration:"29.386143", Errors:"1", Exceptions:"1", StartTime:"2019-03-07 14:18:55 +0530", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2019-03-07 14:19:25.282 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Username" -- Execution Time 0:00:29 MasterScript.script

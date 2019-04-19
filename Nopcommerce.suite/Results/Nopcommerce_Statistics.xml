@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="MasterScript">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2019-03-07 12:07:14 +0530</FirstRun>
+  <LastRun>2019-03-07 14:18:55 +0530</LastRun>
+  <TotalTimeOnSuccess>66.564177</TotalTimeOnSuccess>
+ </script>
+ <script name="LaunchApp">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2019-03-07 12:02:25 +0530</FirstRun>
+  <LastRun>2019-03-07 12:08:34 +0530</LastRun>
+  <TotalTimeOnSuccess>16.415413</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="Nopcommerce.suite" timestamp="2019-03-07 12:21:49.146 +0530"
+ tests="1"  failures="0" errors="0" time="31.456972">
+  <properties>
+   <property name="RunDate" value="2019-03-07 12:21:49.146 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="error"  time="31.450707">
+    <error type="Exception" message="No Image Found On Screen: &quot;Username&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

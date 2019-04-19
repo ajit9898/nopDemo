@@ -1,0 +1,9 @@
+﻿Click "Username"
+TypeText "Rama"
+
+Click "Bank"
+
+Click "Password"
+TypeText "Rama"
+
+Click "Login"

@@ -1,0 +1,63 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MasterScript.script",
+      "timestamp" : "2019-03-07 12:21:02.385 +0530"
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "Ramacanth:(null)",
+      "timestamp" : "2019-03-07 12:21:02.504 +0530",
+      "identifier" : "connect",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "Remote",
+      "timestamp" : "2019-03-07 12:21:02.507 +0530",
+      "identifier" : "show",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "at (29, 123)",
+      "identifier" : "click",
+      "image" : "ChromeIcon",
+      "handlerLine" : 4,
+      "timestamp" : "2019-03-07 12:21:03.250 +0530",
+      "scriptName" : "LaunchApp.script"
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "http:\/\/nopcommerce.testplant.com\/banking-app.html[return]",
+      "timestamp" : "2019-03-07 12:21:06.930 +0530",
+      "identifier" : "typetext",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_loginpage",
+      "message" : "No Image Found On Screen: \"Username\"",
+      "identifier" : "Exception",
+      "image" : "Username",
+      "handlerLine" : 1,
+      "timestamp" : "2019-03-07 12:21:34.214 +0530",
+      "scriptName" : "LoginPage.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"32.34764\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-03-07 12:21:02 +0530\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+      "timestamp" : "2019-03-07 12:21:34.738 +0530"
+    },
+    {
+      "message" : "Image Not Found click Error - No Image Found On Screen: \"Username\" -- Execution Time 0:00:32 MasterScript.script",
+      "timestamp" : "2019-03-07 12:21:34.820 +0530",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2019-03-07 12:21:02.390 +0530"
+}

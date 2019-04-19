@@ -1,0 +1,7 @@
+﻿2019-03-07 12:03:08.552 +0530	START		Running LaunchApp.script
+2019-03-07 12:03:08.640 +0530	connect		Ramacanth:(null)	1	on_launchapp	LaunchApp.script
+2019-03-07 12:03:08.646 +0530	show		Remote	2	on_launchapp	LaunchApp.script
+2019-03-07 12:03:09.347 +0530	click	ChromeIcon	at (29, 123)	4	on_launchapp	LaunchApp.script
+2019-03-07 12:03:10.692 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	5	on_launchapp	LaunchApp.script
+2019-03-07 12:03:11.176 +0530	EndTestCase		(Duration:"2.619469", Errors:"0", Exceptions:"0", StartTime:"2019-03-07 12:03:08 +0530", Successes:"1", TestCase:"LaunchApp.script", Warnings:"0")
+2019-03-07 12:03:11.221 +0530	SUCCESS		Execution Time 0:00:02 LaunchApp.script

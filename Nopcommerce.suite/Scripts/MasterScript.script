@@ -1,0 +1,7 @@
+﻿
+
+run "LaunchApp"
+
+run "LoginPage"
+
+run "NopHomePage"

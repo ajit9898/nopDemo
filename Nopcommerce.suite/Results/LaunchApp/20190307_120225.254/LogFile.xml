@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LaunchApp_script" package="Nopcommerce.suite" timestamp="2019-03-07 12:02:25.254 +0530"
+ tests="1"  failures="0" errors="0" time="2.328611">
+  <properties>
+   <property name="RunDate" value="2019-03-07 12:02:25.254 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="LaunchApp.script" assertions="1" status="success"  time="2.322465">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+﻿
+Click "CurrentAccount01020301234567"
+
+
+//Click "BalanceA"
+
+CaptureScreen (ImageName: "BalanceA")
+
+Click "Backtoyouraccounts"

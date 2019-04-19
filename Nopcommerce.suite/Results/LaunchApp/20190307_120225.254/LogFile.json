@@ -1,0 +1,53 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LaunchApp.script",
+      "timestamp" : "2019-03-07 12:02:25.256 +0530"
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "Ramacanth:(null)",
+      "timestamp" : "2019-03-07 12:02:25.330 +0530",
+      "identifier" : "connect",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "Remote",
+      "timestamp" : "2019-03-07 12:02:25.333 +0530",
+      "identifier" : "show",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "at (29, 123)",
+      "identifier" : "click",
+      "image" : "ChromeIcon",
+      "handlerLine" : 4,
+      "timestamp" : "2019-03-07 12:02:25.851 +0530",
+      "scriptName" : "LaunchApp.script"
+    },
+    {
+      "handlerName" : "on_launchapp",
+      "message" : "http:\/\/nopcommerce.testplant.com\/banking-app.html",
+      "timestamp" : "2019-03-07 12:02:27.175 +0530",
+      "identifier" : "typetext",
+      "scriptName" : "LaunchApp.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.322465\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-03-07 12:02:25 +0530\", Successes:\"1\", TestCase:\"LaunchApp.script\", Warnings:\"0\")",
+      "timestamp" : "2019-03-07 12:02:27.583 +0530"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 LaunchApp.script",
+      "timestamp" : "2019-03-07 12:02:27.603 +0530"
+    }
+  ],
+  "createdTimestamp" : "2019-03-07 12:02:25.261 +0530"
+}

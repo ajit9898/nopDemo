@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstant</key>
+	<integer>7</integer>
+	<key>commandList</key>
+	<string>[{captureRect:[338, 561, 435, 597], elementName:"Bank", elementType:"None", eventNum:-1, folderPath:"", hotSpot:[402, 192], imageName:"Bank", itemEvent:"TurboListItemEvent_CaptureImage", itemMode:"TurboListItemMode_Replace", itemType:"TurboListItemType_Image", OCRText:"eoaplantB", screenShotFile:"Screen0001.png", searchType:"Smooth", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}, {captureRect:[102, 340, 154, 371], elementName:"LoginButton", elementType:"Button", eventNum:-1, folderPath:"", hotSpot:[128, 413], imageName:"LoginButton", itemEvent:"TurboListItemEvent_Element", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", OCRText:"Login", screenShotFile:"Screen0001.png", searchType:"Smooth", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}, {captureRect:[84, 515.476562, 148, 525.476562], elementName:"Username_0001", elementType:"Field", eventNum:-1, folderPath:"", hotSpot:[113, 285.523438], imageName:"Username_0001", itemEvent:"TurboListItemEvent_Element", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", OCRText:"Username*", screenShotFile:"Screen0001.png", searchType:"Smooth", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}, {captureRect:[84, 441.476562, 147, 451.476562], elementName:"Password_0001", elementType:"Field", eventNum:-1, folderPath:"", hotSpot:[112, 356.523438], imageName:"Password_0001", itemEvent:"TurboListItemEvent_Element", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", OCRText:"Password*", screenShotFile:"Screen0001.png", searchType:"Smooth", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}]</string>
+	<key>dilations</key>
+	<integer>3</integer>
+	<key>maxSize</key>
+	<integer>300</integer>
+	<key>minSize</key>
+	<integer>16</integer>
+	<key>savedWithEpfVersion</key>
+	<integer>1902201105</integer>
+	<key>sessionType</key>
+	<string>autoscanSession</string>
+</dict>
+</plist>
