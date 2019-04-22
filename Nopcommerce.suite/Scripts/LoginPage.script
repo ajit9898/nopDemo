@@ -3,8 +3,8 @@ Click "Username"
 TypeText "Rama"
 
 Click "Bank"
-
+//enter pwd
 Click "Password"
 TypeText "Rama"
-
+//click login button
 Click "Login"
