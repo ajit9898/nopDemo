@@ -1,4 +1,5 @@
-﻿connect "Ramacanth"
+﻿//launch application
+connect "Ramacanth"
 show Remote
 
 Click(Image:"ChromeIcon", WaitFor:3)

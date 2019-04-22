@@ -1,4 +1,5 @@
-﻿Click "Username"
+﻿//login operation
+Click "Username"
 TypeText "Rama"
 
 Click "Bank"
