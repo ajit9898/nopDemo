@@ -1,7 +1,7 @@
 ﻿
-
+//master
 run "LaunchApp"
 
 run "LoginPage"
 
-run "NopHomePage"
+t run "NopHomePage"
