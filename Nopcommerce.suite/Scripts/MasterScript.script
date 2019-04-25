@@ -4,4 +4,4 @@ run "LaunchApp"
 
 run "LoginPage"
 
-t run "NopHomePage"
+run "NopHomePage"
