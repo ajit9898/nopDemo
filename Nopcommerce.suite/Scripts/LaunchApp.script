@@ -1,8 +1,14 @@
 ﻿//launch application
-connect "Ramacanth"
-show Remote
+Connect serverID:"192.168.1.58", portNum:5900, password:"ajit1234", type:"VNC"
 
-Click(Image:"ChromeIcon", WaitFor:3)
+show Remote
+If ImageFound("ChromeIcon") then
+	click FoundImageLocation()
+Else
+	TypeText windowsKey,r
+	TypeText "chrome"
+	TypeText return
+End if
 wait 3
 TypeText "http://nopcommerce.testplant.com/banking-app.html", Return
 
