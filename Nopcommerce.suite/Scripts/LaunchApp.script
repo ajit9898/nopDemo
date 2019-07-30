@@ -10,8 +10,10 @@ Else
 	TypeText windowsKey,r
 	TypeText "chrome"
 	TypeText return
+	
 End if
 wait 3
+// open the nopBank application
 TypeText "http://nopcommerce.testplant.com/banking-app.html", Return
 
 
