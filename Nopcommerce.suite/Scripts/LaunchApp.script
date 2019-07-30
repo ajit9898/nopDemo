@@ -2,9 +2,11 @@
 Connect serverID:"192.168.1.58", portNum:5900, password:"ajit1234", type:"VNC"
 
 show Remote
+// open with chrome image
 If ImageFound("ChromeIcon") then
 	click FoundImageLocation()
 Else
+	// open with keyboard
 	TypeText windowsKey,r
 	TypeText "chrome"
 	TypeText return
